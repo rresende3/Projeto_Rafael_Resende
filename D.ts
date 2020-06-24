@@ -25,4 +25,8 @@ class D {
     MD2() {
         console.log('MD2');
     }
+    
+    MD4() {
+        console.log('MD4');
+    }
 }
