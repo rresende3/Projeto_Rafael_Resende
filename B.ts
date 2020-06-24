@@ -25,4 +25,8 @@ class B {
     MB2() {
         console.log('MB2');
     }
+
+    MB3() {
+        console.log('MB3');
+    }
 }
