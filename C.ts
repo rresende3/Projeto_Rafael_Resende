@@ -25,4 +25,8 @@ class C {
     MC2() {
         console.log('MC2');
     }
+
+    MC3() {
+        console.log('MC3');
+    }
 }
