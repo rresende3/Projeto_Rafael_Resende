@@ -25,4 +25,8 @@ class A {
     MA2() {
         console.log('MA2');
     }
+
+    MA3() {
+        console.log('Alteração de classe A partir do clone');
+    }
 }
